@@ -1,0 +1,7 @@
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\UnitTesting\bin\Debug\UnitTesting.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\UnitTesting\obj\Debug\UnitTesting.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\UnitTesting\obj\Debug\UnitTesting.pdb
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\UnitTesting\bin\Debug\nunit.framework.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\UnitTesting\bin\Debug\nunit.framework.xml
