@@ -1,0 +1,15 @@
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\DealerBLL.UnitTests.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\DealerBLL.UnitTests.pdb
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\DealerBLL.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\Moq.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\Ninject.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\DealerBLL.pdb
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\Moq.xml
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\Ninject.xml
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\obj\Debug\DealerBLL.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\obj\Debug\DealerBLL.UnitTests.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\obj\Debug\DealerBLL.UnitTests.pdb
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\DealerDAL.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL.UnitTests\bin\Debug\DealerDAL.pdb

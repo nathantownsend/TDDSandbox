@@ -1,0 +1,9 @@
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL\bin\Debug\DealerBLL.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL\bin\Debug\DealerBLL.pdb
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL\bin\Debug\Ninject.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL\bin\Debug\Ninject.xml
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL\obj\Debug\DealerBLL.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL\obj\Debug\DealerBLL.pdb
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL\obj\Debug\DealerBLL.csprojResolveAssemblyReference.cache
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL\bin\Debug\DealerDAL.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerBLL\bin\Debug\DealerDAL.pdb

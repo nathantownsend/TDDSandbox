@@ -1,0 +1,4 @@
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerDAL\bin\Debug\DealerDAL.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerDAL\bin\Debug\DealerDAL.pdb
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerDAL\obj\Debug\DealerDAL.dll
+C:\Users\cb0290\Documents\GitHub\TDDSandbox\DealerDAL\obj\Debug\DealerDAL.pdb
